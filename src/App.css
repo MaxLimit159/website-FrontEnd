@@ -1,0 +1,44 @@
+.container-wrapper{
+width: 25%;
+height:300px;
+}
+.wrapper {
+  border: 1px solid #2196F3;
+  text-align: center;
+  padding:20px;
+  margin:10px;
+  box-sizing: border-box;
+}
+.container-group{
+  display:flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+.ten {
+  font-weight: bold;
+  color: #2196F3;
+}
+
+.gia {
+  color: #FF9800;
+}
+
+.avatar {
+  margin-bottom:20px;
+  width: 100px;
+  height:100px;
+}
+
+.table{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.left{
+  display: inline-block;
+  width: 50%;
+}
+.right{
+  display: inline-block;
+  width: 50%;
+}
